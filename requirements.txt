@@ -1,0 +1,3 @@
+Flask==1.0
+rfeed==1.1.1
+pdfminer==20140328
